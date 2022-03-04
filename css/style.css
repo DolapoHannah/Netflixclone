@@ -1,0 +1,25 @@
+.first-sect {
+  background-repeat: no-repeat;
+  background: rgba(0, 0, 0, 0.5) url(../bgg.jpg);
+  background-size: cover;
+  /* background-color: brown; */
+  background-blend-mode: darken;
+  
+}
+
+#horzontal-seperator {
+  color: grey;
+  height: 10px;
+}
+.modal-body {
+  width: 15%;
+}
+#button-addon2 {
+  font-size: x-large;
+}
+.fifth-sect h1 {
+  text-align: center;
+}
+.accordion-button {
+  font-size: x-large;
+}
